@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1-Sevices", "1-Sevices", "{49ABC3A3-46E7-45AA-868B-14262CED9737}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1- Presentation", "1- Presentation", "{49ABC3A3-46E7-45AA-868B-14262CED9737}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2-Application", "2-Application", "{8E3C699B-5EB2-4A97-BDB0-EA58BD2D1912}"
 EndProject
@@ -19,11 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoModelo.Application",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoModelo.API", "ProjetoModelo.API\ProjetoModelo.API.csproj", "{8E389596-C439-4D22-99BC-6ECB013E2590}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModelo.Infrastructure.IoC", "ProjetoModelo.Infrastructure.IoC\ProjetoModelo.Infrastructure.IoC.csproj", "{D33318E0-BC15-4D76-834A-B5AF92CB6F42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoModelo.Infrastructure.IoC", "ProjetoModelo.Infrastructure.IoC\ProjetoModelo.Infrastructure.IoC.csproj", "{D33318E0-BC15-4D76-834A-B5AF92CB6F42}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5-Tests", "5-Tests", "{6F101DBE-3884-4F2E-901E-23D24ED87FC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoModelo.UnitTests", "ProjetoModelo.UnitTests\ProjetoModelo.UnitTests.csproj", "{C5E969BD-D2F1-4402-A7B4-56A6B3DE56D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjetoModelo.UnitTests", "ProjetoModelo.UnitTests\ProjetoModelo.UnitTests.csproj", "{C5E969BD-D2F1-4402-A7B4-56A6B3DE56D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
