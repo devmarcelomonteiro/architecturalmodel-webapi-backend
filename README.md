@@ -30,3 +30,12 @@ Essa estrutura segue os princípios do CQRS, separando as operações de leitura
 4.1 - Camada de Acesso a Dados (Data Access Layer):
 * Responsável pela interação com o banco de dados.
 * Implementa repositórios e outras classes para acesso e manipulação de dados.
+
+## Fontes de Referência
+Para obter mais informações sobre CQRS (Command Query Responsibility Segregation) e DDD (Domain-Driven Design), você pode explorar as seguintes fontes:
+
+>"Implementing Domain-Driven Design" por Vaughn Vernon
+
+>"Domain-Driven Design: Tackling Complexity in the Heart of Software" por Eric Evans
+
+>"CQRS Journey" pela Microsoft Patterns & Practices
