@@ -1,4 +1,6 @@
 ## Arquitetura CQRS e DDD: Desenvolvimento de um Modelo de Projeto Eficiente
+![Static Badge](https://img.shields.io/badge/license-MIT-green)
+
 
 ## Sobre o Projeto:
 Nesse projeto adoto a arquitetura CQRS e DDD para construir um sistema de software eficiente. 
