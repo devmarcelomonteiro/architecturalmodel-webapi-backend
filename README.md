@@ -1,4 +1,4 @@
-## Arquitetura CQRS e DDD: Desenvolvimento de um Modelo de Projeto Eficiente
+## Implementando CQRS e DDD para Modelos de Projeto Eficientes
 ![Static Badge](https://img.shields.io/badge/license-MIT-green)
 
 
